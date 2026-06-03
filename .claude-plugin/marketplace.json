@@ -1,0 +1,15 @@
+{
+  "name": "my-skills",
+  "owner": {
+    "name": "lu",
+    "email": "1823671624@qq.com"
+  },
+  "description": "develop skill",
+  "plugins": [
+    {
+      "name": "dev-workflow-plugin",
+      "source": "./plugins/dev-workflow-plugin",
+      "description": "日常开发工作 Skill"
+    }
+  ]
+}

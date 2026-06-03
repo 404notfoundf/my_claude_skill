@@ -1,0 +1,9 @@
+{
+  "name": "dev-workflow-plugin",
+  "description": "日常开发工作 Skill",
+  "version": "1.0.0",
+  "author": {
+    "name": "lu",
+    "email": "1823671624@qq.com"
+  }
+}
