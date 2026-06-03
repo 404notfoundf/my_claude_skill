@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent task brief"
+  short_description: "把编码需求整理成 Agent 可执行简报。"
+  default_prompt: "Use $agent-task-brief to 把这条编码需求改写成适合 Claude Code、Codex 或 Cursor 执行的结构化任务简报。"
