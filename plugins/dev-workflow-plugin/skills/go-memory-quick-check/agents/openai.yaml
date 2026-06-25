@@ -1,4 +1,0 @@
-interface:
-  display_name: "Go memory quick check"
-  short_description: "快速摸排 Go 内存上涨风险点。"
-  default_prompt: "Use $go-memory-quick-check to 快速梳理当前 Go 项目里可能导致内存泄露或内存持续上涨的高风险代码点。"

@@ -1,10 +1,10 @@
 {
-  "name": "my-skills",
+  "name": "custom_skill",
   "owner": {
     "name": "lu",
     "email": "1823671624@qq.com"
   },
-  "description": "develop skill",
+  "description": "Custom Skill",
   "plugins": [
     {
       "name": "dev-workflow-plugin",
